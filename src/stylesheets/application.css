@@ -1,7 +1,15 @@
-@import url('~normalize.css/normalize.css');
-
-* {
+/* @import url('~normalize.css/normalize.css'); */
+/* @import url("../../node_modules/bootstrap/dist/css/bootstrap.css"); */
+@import url('~bootstrap/dist/css/bootstrap.css');
+/* * {
   box-sizing: border-box;
-}
+} */
 
 /* TODO */
+.container {
+  background-color: lightsteelblue;
+  padding: 1rem;
+}
+.form-group {
+  font-size: 1.5rem;
+}
